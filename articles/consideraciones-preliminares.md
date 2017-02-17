@@ -6,7 +6,7 @@
 
 ##En relación a las propiedades y tecnologías a aprender
 
-Este curso tiene como finalidad ser altamente práctico. El alcance del aprendizaje de cada tecnología o propiedad que veremos se limitará al uso que le daremos para hacer efectiva la construcción del [sitio web que crearemos](https://agustinpfs.github.io/html-course-PW/ " target="_blank). 
+Este curso tiene como finalidad ser altamente práctico. El alcance del aprendizaje de cada tecnología o propiedad que veremos se limitará al uso que le daremos para hacer efectiva la construcción del [sitio web que crearemos](https://agustinpfs.github.io/html-course-PW/). 
 
 Es decir que este curso pretende ser dinámico y no encerrar sub-cursos que interfieran en la dinámica propuesta.
 Por ejemplo aprenderemos flexbox en css pero no daremos todas las características que encierra esta propiedad. Pero cabe destacar que con el uso que le daremos para maquetar ciertas partes del sitio, imprimirá en el estudiante el concepto práctico de dicha propiedad, le será de facilidad entender el resto de las características de flexbox cuando vaya a incursionar nuevas funcionalidades, ya sea por necesidad o por interés.
@@ -21,13 +21,13 @@ Los enlaces estarán disponibles en cada artículo y en la descripción de los v
 
 ##GitHub
 
-GitHub es una herramienta escencial para todo desarrollador web. Este curso por ser de iniciación, no abarcará su potencial porque nos alejaríamos del objetivo principal. Igualmente para ir teniendo contacto con la plataforma, la utilizaremos para compartir los archivos, discusiones del código y como servidor a la hora de publicar el proyecto en Internet. En futuros cursos la dinámica se realizará enteramente con Git y GitHub por parte de alumnos y profesores. Te invito a que veas el [curso elemental de Git y GitHub de Pandawebs](http://pandawebs.net/git-github-elemental/ " target="_blank) para que te vayas familiarizando con estas tecnologías.
+GitHub es una herramienta escencial para todo desarrollador web. Este curso por ser de iniciación, no abarcará su potencial porque nos alejaríamos del objetivo principal. Igualmente para ir teniendo contacto con la plataforma, la utilizaremos para compartir los archivos, discusiones del código y como servidor a la hora de publicar el proyecto en Internet. En futuros cursos la dinámica se realizará enteramente con Git y GitHub por parte de alumnos y profesores. Te invito a que veas el [curso elemental de Git y GitHub de Pandawebs](http://pandawebs.net/git-github-elemental/) para que te vayas familiarizando con estas tecnologías.
 
 ##Interacción y soporte
 No hagamos desde fuera el curso, es importante que participemos en los sistemas de comentarios distribuídos en los artículos, en los videos y en GitHub. También ya está creado el [grupo del curso en Facebook](#), este grupo tiene por finalidad conocernos, dar a conocer nuestros proyectos y ambiciones como desarrolladores. Las dudas que tengamos sobre el código del curso trataremos de dejarlas en los artículos o en los códigos publicados en GitHub.
 
 ##Editor de texto
-En el curso usaremos [Sublime text 3](https://www.sublimetext.com/3 " target="_blank). Puedes usar cualquiera.
+En el curso usaremos [Sublime text 3](https://www.sublimetext.com/3). Puedes usar cualquiera.
 
 ##Trabajo Práctico Obligatorio
 La prueba de tu aprendizaje y conocimiento la tendrás que dar tu mismo con un sitio web real que vaya a tener un uso real.
