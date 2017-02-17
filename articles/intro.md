@@ -44,5 +44,5 @@ Razonar y entender el código dotará la capacidad al estudiante de manipular lo
 
 <hr>
 
-[siguiente - **Consideraciones generales**](https://github.com/Pandawebs/course-html-css-js/blob/master/articles/consideraciones-generales.md) 
+[siguiente - **Consideraciones generales**](https://github.com/Pandawebs/course-html-css-js/blob/master/articles/consideraciones-preliminares.md) 
 
