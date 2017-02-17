@@ -54,5 +54,5 @@ Ten en cuenta que sin el trabajo de un caso real no tiene ningún sentido de que
 
 [siguiente - **wireframes**](https://github.com/Pandawebs/course-html-css-js/blob/master/articles/wireframes.md) 
 
-[anterior - **introducción al curso**](https://github.com/Pandawebs/course-html-css-js/blob/master/articles/intro-curso-html-css-js.md)
+[anterior - **introducción al curso**](https://github.com/Pandawebs/course-html-css-js/blob/master/articles/intro.md)
 
