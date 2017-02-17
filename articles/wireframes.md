@@ -2,7 +2,7 @@
 
 *Qué es un wirefreme - Utilidad - Maneras de hacerlo - Haz el tuyo.*
 
-[Video tutorial](https://youtube.com " target="_blank)
+[Video tutorial](https://youtube.com)
 
 *Un wireframe es una representación gráfica de la estructura o distribución  
 de los elementos que conformarán nuestro sitio web.*
@@ -15,7 +15,7 @@ El wirefreme nos ayuda a definir nuestras espectativas, es donde plasmaremos la 
 ##Cómo hacerlo
 Lo podemos hacer con lapiz y papel o utilizando algún softwere de diseño gráfico.
 
-Existen aplicaciones exclusivas para hacer wireframes como [Balsamiq](https://webdemo.balsamiq.com/ " target="_blank).
+Existen aplicaciones exclusivas para hacer wireframes como [Balsamiq](https://webdemo.balsamiq.com/).
 
 Personalmente elijo el papel y lápiz. Si el proyecto es para un cliente lo hago en Photoshop o Ilustrator.
 Pero si o si siempre hago el primer esbozo en papel y lápiz.
