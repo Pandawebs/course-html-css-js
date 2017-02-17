@@ -4,11 +4,11 @@
 
 ![alt](http://pandawebs.net/assets/images/html5-css3-js.png)
 
-- [Introducción](http://pandawebs.net/intro-curso-html-css-js/)
+- [Introducción](https://github.com/Pandawebs/course-html-css-js/blob/master/articles/intro.md)
 
-- [Consideraciones preliminares](http://pandawebs.net/consideraciones-preliminares/)
+- [Consideraciones preliminares](https://github.com/Pandawebs/course-html-css-js/blob/master/articles/consideraciones-preliminares.md)
 
-- [Wireframe](http://pandawebs.net/wireframe)
+- [Wireframes](https://github.com/Pandawebs/course-html-css-js/blob/master/articles/wirefremes.md)
 
 - [HTML](http://pandawebs.net/html)
 
