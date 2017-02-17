@@ -40,7 +40,7 @@ Razonar y entender el código dotará la capacidad al estudiante de manipular lo
 
 <span class="link-to-index-git">Curso Práctico de Html, Css y JavaScript. [  Índice del curso](https://github.com/Pandawebs/course-html-css-js/blob/master/README.md)</span>
 
-<strong class="link-to-github">[Editar este artículo](https://github.com/Pandawebs/curso-html-css-js/edit/master/articles/intro.md " target="_blank)</strong>
+<strong class="link-to-github">[Editar este artículo](https://github.com/Pandawebs/course-html-css-js/edit/master/articles/intro.md)</strong>
 
 <hr>
 
