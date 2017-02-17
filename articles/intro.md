@@ -1,7 +1,7 @@
 # Introducción al Curso Práctico de Html Css y Javascript
 *Objetivo general - A quién va dirijido - Qué vamos a aprender - Habilidades a desarrollar.*
 
-[Video tutorial](https://youtube.com)
+[Video tutorial](https://youtube.com " target="_blank)
 
 **Bienvenidos al Curso Práctico de Html, Css y Javascript. Gracias por tu confianza.**
 
@@ -34,23 +34,13 @@ Razonar y entender el código dotará la capacidad al estudiante de manipular lo
 
 <br>
 
-Más información en el [video ](youtube.com " target="_blank)
-*En el próximo artículo veremos las consideraciones generales para que tengas una buena experiencia en tu aprendizaje.*
-
-
-
+[Video Tutorial](#)
 
 <hr>
-
-<!-- Inicio links índice y github -->
 
 <span class="link-to-index-git">Curso Html - Css - JS. [ ver índice](http://pandawebs.net/curso-html-css-js/)</span>
 
 <strong class="link-to-github">[Editar este artículo](https://github.com/Pandawebs/curso-html-css-js/edit/master/articles/intro.md " target="_blank)</strong>
-
-<!-- Fin links índice y github -->
-
-[Video Tutorial](#)
 
 <hr>
 
