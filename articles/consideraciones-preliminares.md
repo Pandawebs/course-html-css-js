@@ -37,7 +37,7 @@ Ten en cuenta que sin el trabajo de un caso real no tiene ningún sentido de que
 
 <br>
 
-==*Involúcrate, comparte, ayuda, investiga en Internet, aporta tus conocimientos. Recuerda que tu beneficio es el beneficio de todos. Nuestro anhelo es que este curso nos aporte valor a lo que somos y sirva para ser mejores profesionales, profesores, estudiantes y personas.*==
+**_Involúcrate, comparte, ayuda, investiga en Internet, aporta tus conocimientos. Recuerda que tu beneficio es el beneficio de todos. Nuestro anhelo es que este curso nos aporte valor a lo que somos y sirva para ser mejores profesionales, profesores, estudiantes y personas._**
 
 <br>
 
@@ -46,9 +46,9 @@ Ten en cuenta que sin el trabajo de un caso real no tiene ningún sentido de que
 
 <hr>
 
-<span class="link-to-index-git">Curso Práctico de Html, Css y JavaScript. [  Índice del curso](http://pandawebs.net/curso-html-css-js/)</span>
+<span class="link-to-index-git">Curso Práctico de Html, Css y JavaScript. [  Índice del curso](https://github.com/Pandawebs/course-html-css-js/blob/master/README.md)</span>
 
-<strong class="link-to-github">[Editar este artículo](https://github.com/Pandawebs/consideraciones-preliminares/edit/master/articles/intro.md " target="_blank)</strong>
+<strong class="link-to-github">[Editar este artículo](https://github.com/Pandawebs/course-html-css-js/edit/master/articles/consideraciones-preliminares.md)</strong>
 
 <hr>
 
