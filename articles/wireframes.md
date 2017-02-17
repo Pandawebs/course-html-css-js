@@ -65,6 +65,6 @@ Crea un wirefreme del sitio que vayas a hacer. Hazlo a partir de [nuestro sitio 
 
 [siguiente - **html**](https://github.com/Pandawebs/course-html-css-js/blob/master/articles/html.md) 
 
-[anterior - **consideraciones preliminares**](https://github.com/Pandawebs/course-html-css-js/blob/master/articles/intro-curso-html-css-js.md)
+[anterior - **consideraciones preliminares**](https://github.com/Pandawebs/course-html-css-js/blob/master/articles/consideraciones-preliminares.md)
 
 
