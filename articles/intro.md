@@ -12,7 +12,7 @@ Adquirir la habilidad de crear un sitio web interactivo desde cero, adaptable a 
 A todo el mundo que quiera aprender o reforzar sus conocimientos sobre el desarrollo de un sitio web.
 
 ##Temas generales a aprender.
-Aprenderemos todo lo relacionado para crear [el siguiente sitio web](https://agustinpfs.github.io/html-course-PW/){:target="_blank"}.
+Aprenderemos todo lo relacionado para crear [el siguiente sitio web](https://agustinpfs.github.io/html-course-PW/ target="_blank).
 
 - **Html:** Estructura, etiquetas, semántica.
 
